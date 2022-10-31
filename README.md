@@ -1,0 +1,2 @@
+# React_JS_OTUS_Functional_Programming
+Основы функционального программирования
